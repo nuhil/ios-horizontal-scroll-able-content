@@ -14,6 +14,7 @@
 		060C62F7172EA6160001AA4B /* one.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 060C62F2172EA6160001AA4B /* one.jpeg */; };
 		060C62F8172EA6160001AA4B /* three.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 060C62F3172EA6160001AA4B /* three.jpeg */; };
 		060C62F9172EA6160001AA4B /* two.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 060C62F4172EA6160001AA4B /* two.jpeg */; };
+		060C632A172EACF60001AA4B /* screen-shot.png in Resources */ = {isa = PBXBuildFile; fileRef = 060C6329172EACF60001AA4B /* screen-shot.png */; };
 		06FE68751726B5A90095E682 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06FE68741726B5A80095E682 /* UIKit.framework */; };
 		06FE68771726B5A90095E682 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06FE68761726B5A90095E682 /* Foundation.framework */; };
 		06FE68791726B5A90095E682 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06FE68781726B5A90095E682 /* CoreGraphics.framework */; };
@@ -36,6 +37,7 @@
 		060C62F2172EA6160001AA4B /* one.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = one.jpeg; sourceTree = "<group>"; };
 		060C62F3172EA6160001AA4B /* three.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = three.jpeg; sourceTree = "<group>"; };
 		060C62F4172EA6160001AA4B /* two.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = two.jpeg; sourceTree = "<group>"; };
+		060C6329172EACF60001AA4B /* screen-shot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen-shot.png"; sourceTree = "<group>"; };
 		06FE68711726B5A80095E682 /* Horizontal Scrollable Content.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Horizontal Scrollable Content.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		06FE68741726B5A80095E682 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		06FE68761726B5A90095E682 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -76,6 +78,7 @@
 				060C62F2172EA6160001AA4B /* one.jpeg */,
 				060C62F3172EA6160001AA4B /* three.jpeg */,
 				060C62F4172EA6160001AA4B /* two.jpeg */,
+				060C6329172EACF60001AA4B /* screen-shot.png */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				060C62F7172EA6160001AA4B /* one.jpeg in Resources */,
 				060C62F8172EA6160001AA4B /* three.jpeg in Resources */,
 				060C62F9172EA6160001AA4B /* two.jpeg in Resources */,
+				060C632A172EACF60001AA4B /* screen-shot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
